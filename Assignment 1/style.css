@@ -1,0 +1,47 @@
+body{
+    background-color: black;
+    color: white;
+}
+.header{
+    background-color: black;
+    text-align: center;
+    font-size: 100px;
+    text-decoration: underline;
+}
+span{
+    color: yellow;
+}
+.article{
+    padding: 0px 0px 20px 0px;
+}
+.section{
+    padding: 0px 0px 20px 10px;
+}
+.form {
+    border: dotted black;
+    background-image: linear-gradient(to right, black, red);
+    margin: 10px;
+    border-radius: 10px;
+    padding: 10px;
+}
+.form > input,label{
+    background-image: linear-gradient(to right, black, red);
+    padding: 3px 10px 3px 0px;
+    border-radius: 2px;
+    color: white;
+}
+input[type=submit]{
+    background-image: linear-gradient(to right, white, red);
+    border-radius: 10px;
+    margin-top: 10px;
+
+}
+.container4{
+    background-color: white;
+    padding: 10px;
+}
+img{
+    border-radius: 15px;
+    width: 100%;
+}
+
